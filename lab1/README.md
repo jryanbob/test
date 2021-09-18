@@ -1,7 +1,11 @@
-Adam Brink
+# CS 262 - Lab 1
 
-Pupose of the files:
-- App.js - This file has all the code needed to run the app.
-- package.json - Informational data about a project required before publishing. Google says it records i  i important metadata about a project which is required before publishing to NPM, and also defines functional  attributes of a project that npm uses to install dependencies, run scripts, and identify the entry point to  our package.
-- node_modules - Contains all the node libraries. Holds packages used in javascript program on this computer
-- .gitignore - Tells git which files to ignore
+This lab is based on [this](https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html)
+
+* made hello world application
+
+Answers to the lab question:   
+  * App.js - This is the file that contains the code to run the app (perhapds like a 'main' file).
+  * package.json - informational file about the project and what it requires.
+  * node_modules - this folder holds all the downloaded packages used in this javascript project on the computer.  
+  * .gitignore - tells git which files to ignore (or not track).
